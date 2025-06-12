@@ -15,14 +15,14 @@ cd My-Dotfiles  </pre>
 
 Now we have to replace the existing files with my files:
 
-hypr:
+Hypr:
 <pre> sudo rm -rf ~/.config/hypr </pre>
 
-kitty(if installed):
+Kitty(if installed):
 <pre> sudo rm -rf ~/.config/kitty </pre>
 
-rofi:
+Rofi:
 <pre> sudo rm -rf ~/.config/rofi </pre>
 
-waybar:
+Waybar:
 <pre> sudo rm -rf ~/.config/waybar </pre>
