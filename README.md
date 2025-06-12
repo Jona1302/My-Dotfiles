@@ -1,45 +1,46 @@
-First you have to clone my repo:
+1.
+ First you have to clone my repo:
 
-<pre>git clone https://github.com/Jona1302/My-Dotfiles.git
+ <pre>git clone https://github.com/Jona1302/My-Dotfiles.git
     
-cd My-Dotfiles  </pre>
+ cd My-Dotfiles  </pre>
 
-Next we have to install some dependencys:
+ Next we have to install some dependencys:
 
-Pacman:
-<pre> sudo pacman -S kitty swww waybar rofi python3 bluetui bluez-utils brightnessctl pipewire pipewire-pulse ttf-jetbrains-mono-nerd wireplumber </pre>
+ Pacman:
+ <pre> sudo pacman -S kitty swww waybar rofi python3 bluetui bluez-utils brightnessctl pipewire pipewire-pulse ttf-jetbrains-mono-nerd wireplumber </pre>
 
-yay:
-<pre>yay -S waypaper-git rofi-lbonn-wayland-git </pre>
-if you dont have yay installed, [Klick me](https://github.com/Jguer/yay)
-
-
-
-Now we have to remove the existing files:
-Hypr:
-<pre> sudo rm -rf ~/.config/hypr </pre>
-
-Kitty(if installed):
-<pre> sudo rm -rf ~/.config/kitty </pre>
-
-Rofi:
-<pre> sudo rm -rf ~/.config/rofi </pre>
-
-Waybar:
-<pre> sudo rm -rf ~/.config/waybar </pre>
+ yay:
+ <pre>yay -S waypaper-git rofi-lbonn-wayland-git </pre>
+ if you dont have yay installed, [Klick me](https://github.com/Jguer/yay)
 
 
-Now we can move the new files to the .Config directory
-<pre> cd ~/home</pre>
+2.
+ Now we have to remove the existing files:
+ Hypr:
+ <pre> sudo rm -rf ~/.config/hypr </pre>
 
-Hypr:
-<pre> mv /home/jona/My-Dotfiles/hypr  ~/.config/ </pre>
+ Kitty(if installed):
+ <pre> sudo rm -rf ~/.config/kitty </pre>
 
-Kitty(if installed):
-<pre> mv /home/jona/My-Dotfiles/hypr  ~/.config/ </pre>
+ Rofi:
+ <pre> sudo rm -rf ~/.config/rofi </pre>
 
-Rofi:
-<pre> mv /home/jona/My-Dotfiles/hypr  ~/.config/ </pre>
+ Waybar:
+ <pre> sudo rm -rf ~/.config/waybar </pre>
 
-Waybar:
-<pre> mv /home/jona/My-Dotfiles/hypr  ~/.config/ </pre>
+3.
+ Now we can move the new files to the .Config directory
+ <pre> cd ~/home</pre>
+
+ Hypr:
+ <pre> mv /home/jona/My-Dotfiles/hypr  ~/.config/ </pre>
+
+ Kitty(if installed):
+ <pre> mv /home/jona/My-Dotfiles/hypr  ~/.config/ </pre>
+
+ Rofi:
+ <pre> mv /home/jona/My-Dotfiles/hypr  ~/.config/ </pre>
+
+ Waybar:
+ <pre> mv /home/jona/My-Dotfiles/hypr  ~/.config/ </pre>
