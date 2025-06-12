@@ -8,7 +8,7 @@
  if you dont have yay installed, [Klick me](https://github.com/Jguer/yay) after you followed this guide you can delete the yay folder.<br />
  
 
-# Now clone the repo:
+## Now clone the repo:
  <pre>git clone https://github.com/Jona1302/My-Dotfiles.git </pre>
 
 # Now we have to remove the existing files:
