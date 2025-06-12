@@ -29,16 +29,16 @@
 
 3.
  Now we can move the new files to the .Config directory
- <pre> cd ~/home/jona</pre> replace jona with your user
+!!!MAKE SHURE THAT YOU ARE IN THE MY-DOTFILES DIRECTORY!!!
 
  Hypr:
- <pre> mv /home/jona/My-Dotfiles/hypr  ~/.config/ </pre>
+ <pre> mv hypr  ~/.config/ </pre>
 
  Kitty(if installed):
- <pre> mv /home/jona/My-Dotfiles/hypr  ~/.config/ </pre>
+ <pre> mv kitty  ~/.config/ </pre>
 
  Rofi:
- <pre> mv /home/jona/My-Dotfiles/hypr  ~/.config/ </pre>
+ <pre> mv rofi  ~/.config/ </pre>
 
  Waybar:
- <pre> mv /home/jona/My-Dotfiles/hypr  ~/.config/ </pre>
+ <pre> mv waybar  ~/.config/ </pre>
