@@ -2,11 +2,18 @@ First you have to clone my repo:
 
 <pre>git clone https://github.com/Jona1302/My-Dotfiles.git
     
-cd My-Dotfiles                                     </pre>
+cd My-Dotfiles  </pre>
 
-At first we habe to replace the existing files with my files:
 
-Remove the old files
+
+
+
+
+
+
+
+
+Now we have to replace the existing files with my files:
 
 hypr:
 <pre> sudo rm -rf ~/.config/hypr </pre>
