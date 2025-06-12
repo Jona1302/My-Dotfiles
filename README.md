@@ -31,7 +31,7 @@
 
 3.
  Now we can move the new files to the .Config directory
- <pre> cd ~/home</pre>
+ <pre> cd ~/home/jona</pre> replace jona with your user
 
  Hypr:
  <pre> mv /home/jona/My-Dotfiles/hypr  ~/.config/ </pre>
