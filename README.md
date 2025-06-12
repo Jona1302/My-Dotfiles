@@ -6,7 +6,7 @@
  Next we have to install some dependencys:
 
  Pacman:
- <pre> sudo pacman -S kitty swww waybar rofi python3 bluetui bluez-utils brightnessctl pipewire pipewire-pulse ttf-jetbrains-mono-nerd wireplumber </pre>
+ <pre> sudo pacman -S kitty swww waybar python3 bluetui bluez-utils brightnessctl pipewire pipewire-pulse ttf-jetbrains-mono-nerd wireplumber </pre>
 
  yay:
  <pre>yay -S waypaper-git rofi-lbonn-wayland-git </pre>
