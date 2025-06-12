@@ -1,4 +1,4 @@
- **First we have to install some dependencys:**
+ ## First we have to install some dependencys:
 
  Pacman:
  <pre> sudo pacman -S kitty swww waybar git python3 bluez-utils brightnessctl pipewire pipewire-pulse ttf-jetbrains-mono-nerd wireplumber </pre>
@@ -26,7 +26,7 @@
  <pre> sudo rm -rf ~/.config/waybar </pre>
 
 
-## Now we can move the new files to the .Config directory
+**Now we can move the new files to the .Config directory
 
 !!!MAKE SHURE THAT YOU ARE IN THE MY-DOTFILES DIRECTORY!!!
 
