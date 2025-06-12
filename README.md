@@ -7,11 +7,11 @@ cd My-Dotfiles  </pre>
 Next we have to install some dependencys:
 
 Pacman:
-<pre> sudo pacman -S swww waybar rofi python-pipx bluetui bluez-utils brightnessctl pipewire pipewire-pulse ttf-jetbrains-mono-nerd wireplumber </pre>
+<pre> sudo pacman -S swww waybar rofi python3 bluetui bluez-utils brightnessctl pipewire pipewire-pulse ttf-jetbrains-mono-nerd wireplumber </pre>
 
 yay:
 <pre>yay -S waypaper-git rofi-lbonn-wayland-git </pre>
-if you dont have yay installed go here: [Link text](https://github.com/Jguer/yay)
+if you dont have yay installed, [Klick me](https://github.com/Jguer/yay)
 
 
 
