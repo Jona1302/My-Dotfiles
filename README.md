@@ -4,6 +4,9 @@ First you have to clone my repo:
     
 cd My-Dotfiles  </pre>
 
+Next we have to install some dependencys:
+
+
 
 
 
