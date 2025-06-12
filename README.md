@@ -15,7 +15,22 @@ if you dont have yay installed, [Klick me](https://github.com/Jguer/yay)
 
 
 
-Now we have to replace the existing files with my files:
+Now we have to remove the existing files:
+Hypr:
+<pre> sudo rm -rf ~/.config/hypr </pre>
+
+Kitty(if installed):
+<pre> sudo rm -rf ~/.config/kitty </pre>
+
+Rofi:
+<pre> sudo rm -rf ~/.config/rofi </pre>
+
+Waybar:
+<pre> sudo rm -rf ~/.config/waybar </pre>
+
+
+Now we can move the new files to the .Config directory
+<pre> cd ~/home</pre>
 
 Hypr:
 <pre> sudo rm -rf ~/.config/hypr </pre>
