@@ -10,7 +10,7 @@
 
  yay:
  <pre>yay -S waypaper-git rofi-lbonn-wayland-git </pre>
- if you dont have yay installed, [Klick me](https://github.com/Jguer/yay)
+ if you dont have yay installed, [Klick me](https://github.com/Jguer/yay) after you followed this guide you can delete the yay folder.
 
 
 2.
