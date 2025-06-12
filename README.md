@@ -9,7 +9,7 @@
  
 
 **Now clone the repo:**
- <pre>git clone https://github.com/Jona1302/My-Dotfiles.git </pre>
+ <pre>git clone https://github.com/Jona1302/My-Dotfiles.git </pre><br>
 
 ## Now we have to remove the existing files:
 
