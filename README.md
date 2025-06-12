@@ -34,13 +34,13 @@
 !!!MAKE SHURE THAT YOU ARE IN THE MY-DOTFILES DIRECTORY!!!
 
  Hypr:
- <pre> mv hypr  ~/.config/ </pre>
+ <pre> cp -r hypr/ ~/.config/ </pre>
 
  Kitty(if installed):
- <pre> mv kitty  ~/.config/ </pre>
+ <pre> cp -r kitty/ ~/.config/ </pre>
 
  Rofi:
- <pre> mv rofi  ~/.config/ </pre>
+ <pre> cp -r rofi/ ~/.config/ </pre>
 
  Waybar:
- <pre> mv waybar  ~/.config/ </pre>
+ <pre> cp -r waybar/ ~/.config/ </pre>
