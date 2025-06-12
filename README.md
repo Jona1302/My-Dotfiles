@@ -3,11 +3,12 @@
  First we have to install some dependencys:
 
  Pacman:
- <pre> sudo pacman -S kitty swww waybar python3 bluez-utils brightnessctl pipewire pipewire-pulse ttf-jetbrains-mono-nerd wireplumber </pre>
+ <pre> sudo pacman -S kitty swww waybar git python3 bluez-utils brightnessctl pipewire pipewire-pulse ttf-jetbrains-mono-nerd wireplumber </pre>
 
  yay:
  <pre>yay -S waypaper-git rofi-lbonn-wayland-git bluetui </pre>
  if you dont have yay installed, [Klick me](https://github.com/Jguer/yay) after you followed this guide you can delete the yay folder.
+ 
 
  Now clone the repo:
  <pre>git clone https://github.com/Jona1302/My-Dotfiles.git </pre>
