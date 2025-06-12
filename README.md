@@ -7,7 +7,7 @@ cd My-Dotfiles  </pre>
 Next we have to install some dependencys:
 
 Pacman:
-<pre> sudo pacman -S swww waybar rofi python3 bluetui bluez-utils brightnessctl pipewire pipewire-pulse ttf-jetbrains-mono-nerd wireplumber </pre>
+<pre> sudo pacman -S kitty swww waybar rofi python3 bluetui bluez-utils brightnessctl pipewire pipewire-pulse ttf-jetbrains-mono-nerd wireplumber </pre>
 
 yay:
 <pre>yay -S waypaper-git rofi-lbonn-wayland-git </pre>
@@ -33,13 +33,13 @@ Now we can move the new files to the .Config directory
 <pre> cd ~/home</pre>
 
 Hypr:
-<pre> sudo rm -rf ~/.config/hypr </pre>
+<pre> mv /home/jona/My-Dotfiles/hypr  ~/.config/ </pre>
 
 Kitty(if installed):
-<pre> sudo rm -rf ~/.config/kitty </pre>
+<pre> mv /home/jona/My-Dotfiles/hypr  ~/.config/ </pre>
 
 Rofi:
-<pre> sudo rm -rf ~/.config/rofi </pre>
+<pre> mv /home/jona/My-Dotfiles/hypr  ~/.config/ </pre>
 
 Waybar:
-<pre> sudo rm -rf ~/.config/waybar </pre>
+<pre> mv /home/jona/My-Dotfiles/hypr  ~/.config/ </pre>
