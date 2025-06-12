@@ -1,6 +1,6 @@
 
 
- **First we have to install some dependencys:**
+ __First we have to install some dependencys:__
 
  Pacman:
  <pre> sudo pacman -S kitty swww waybar git python3 bluez-utils brightnessctl pipewire pipewire-pulse ttf-jetbrains-mono-nerd wireplumber </pre>
