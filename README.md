@@ -11,7 +11,7 @@
 ## Now clone the repo:
  <pre>git clone https://github.com/Jona1302/My-Dotfiles.git </pre>
 
-# Now we have to remove the existing files:
+## Now we have to remove the existing files:
 
  Hypr:
  <pre> sudo rm -rf ~/.config/hypr </pre>
@@ -26,7 +26,7 @@
  <pre> sudo rm -rf ~/.config/waybar </pre>
 
 
-# Now we can move the new files to the .Config directory
+## Now we can move the new files to the .Config directory
 
 !!!MAKE SHURE THAT YOU ARE IN THE MY-DOTFILES DIRECTORY!!!
 
@@ -42,6 +42,6 @@
  Waybar:
  <pre> cp -r waybar/ ~/.config/ </pre>
 
-# At the last step we have to modify the waybar scripts by typing this:
+## At the last step we have to modify the waybar scripts by typing this:
 
  <pre> chmod +x ~/.config/waybar/scripts/* </pre>
