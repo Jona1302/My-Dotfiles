@@ -1,9 +1,7 @@
 1.
  First you have to clone my repo:
 
- <pre>git clone https://github.com/Jona1302/My-Dotfiles.git
-    
- cd My-Dotfiles  </pre>
+ <pre>git clone https://github.com/Jona1302/My-Dotfiles.git </pre>
 
  Next we have to install some dependencys:
 
