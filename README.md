@@ -26,7 +26,7 @@
  <pre> sudo rm -rf ~/.config/waybar </pre>
 
 
-**Now we can move the new files to the .Config directory
+**Now we can move the new files to the .Config directory<br>
 
 !!!MAKE SHURE THAT YOU ARE IN THE MY-DOTFILES DIRECTORY!!!
 
