@@ -23,10 +23,10 @@
  <pre> sudo rm -rf ~/.config/rofi </pre>
 
  Waybar:
- <pre> sudo rm -rf ~/.config/waybar </pre>
+ <pre> sudo rm -rf ~/.config/waybar </pre><br>
 
 
-**Now we can move the new files to the .Config directory <br>
+**Now we can move the new files to the .Config directory
 
 !!!MAKE SHURE THAT YOU ARE IN THE MY-DOTFILES DIRECTORY!!!
 
