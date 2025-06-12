@@ -30,6 +30,7 @@
 
 3.
  Now we can move the new files to the .Config directory
+
 !!!MAKE SHURE THAT YOU ARE IN THE MY-DOTFILES DIRECTORY!!!
 
  Hypr:
