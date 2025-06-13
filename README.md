@@ -61,7 +61,7 @@
 
 !!!MAKE SURE THAT YOU ARE IN THE (MY-DOTFILES) DIRECTORY!!!
 
-         cp -r hypr/ kitty/ rofi/ waybar/ ~/.config/ && \
+         cp -r hypr/ kitty/ rofi/ waybar/ ~/.config
          cp .p10k.zsh .zshrc ~/
 
 
