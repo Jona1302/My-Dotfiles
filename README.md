@@ -20,9 +20,8 @@
        git clone https://github.com/Jona1302/My-Dotfiles.git
 
 <br>
-<br>
 
-**2. Now we have to remove the existing files:**
+**3. Now we have to remove the existing files:**
 
  Hypr:
  
@@ -43,22 +42,26 @@
 <br>
 
 
-**Now we can move the new files to the .Config directory
+**4. Now we can move the new files to the .Config directory
 
 !!!MAKE SHURE THAT YOU ARE IN THE MY-DOTFILES DIRECTORY!!!
 
- Hypr:
- <pre> cp -r hypr/ ~/.config/ </pre>
+Hypr:
+ 
+    cp -r hypr/ ~/.config/
 
- Kitty(if installed):
- <pre> cp -r kitty/ ~/.config/ </pre>
+Kitty(if installed):
+ 
+    cp -r kitty/ ~/.config/
 
- Rofi:
- <pre> cp -r rofi/ ~/.config/ </pre>
+Rofi:
+ 
+    cp -r rofi/ ~/.config/
 
- Waybar:
- <pre> cp -r waybar/ ~/.config/ </pre>
+Waybar:
 
-## At the last step we have to modify the waybar scripts by typing this:
+    cp -r waybar/ ~/.config/
 
- <pre> chmod +x ~/.config/waybar/scripts/* </pre>
+## 5. At the last step we have to modify the waybar scripts by typing this:
+
+    chmod +x ~/.config/waybar/scripts/*
