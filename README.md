@@ -8,7 +8,7 @@
 **1.First we have to install some dependencys:**
 
 - Pacman:
-      sudo pacman -S kitty firefox pfetch swww waybar git python3 bluez-utils brightnessctl pipewire pipewire-pulse ttf-jetbrains-mono-nerd wireplumber
+      sudo pacman -S kitty firefox curl wget zsh pfetch swww waybar git python3 bluez-utils brightnessctl pipewire pipewire-pulse ttf-jetbrains-mono-nerd wireplumber
 
  - yay:
 
@@ -19,9 +19,14 @@
 
 **2.Now clone the repo:**
 
- - git
+ - my repo
     
        git clone https://github.com/Jona1302/My-Dotfiles.git
+
+   - oh-my-zsh
+     
+         sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+       
 
 <br>
 
