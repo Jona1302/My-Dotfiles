@@ -80,6 +80,6 @@
 
 **6. Last but no least we have to chainge the shell from bash to zsh by runnig:**
 
-- chaine shell
+- chainge shell
 
       sudo chsh -s $(which zsh)
