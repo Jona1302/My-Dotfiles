@@ -62,6 +62,6 @@
 
       cp -r waybar/ ~/.config/
 
-## 5. At the last step we have to modify the waybar scripts by typing this:
+**5. At the last step we have to modify the waybar scripts by typing this:**
 
-    chmod +x ~/.config/waybar/scripts/*
+     chmod +x ~/.config/waybar/scripts/*
