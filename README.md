@@ -72,4 +72,6 @@
 
       chmod +x ~/.config/waybar/scripts/*
 
+
+
   ## terminal + zsh ##
