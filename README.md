@@ -2,8 +2,8 @@
 
 **1.First we have to install some dependencys:**
 
-    Pacman:
-<pre> sudo pacman -S kitty swww waybar git python3 bluez-utils brightnessctl pipewire pipewire-pulse ttf-jetbrains-mono-nerd wireplumber </pre>
+- Pacman:
+    sudo pacman -S kitty swww waybar git python3 bluez-utils brightnessctl pipewire pipewire-pulse ttf-jetbrains-mono-nerd wireplumber
 
 yay:
 <pre>yay -S waypaper-git rofi-lbonn-wayland-git bluetui </pre>
