@@ -17,7 +17,7 @@
 
 <br/>
 
-**2.Now clone the repo:**
+**2.Now clone the repos:**
 
  - my repo
     
