@@ -1,10 +1,21 @@
 <p align="center">
   <a href="https://github.com/Jona1302/My-Dotfiles?tab=readme-ov-file#installation">Installation</a>
-  
+</p>
+
+<p align="center">
   <a href="https://github.com/Jona1302/My-Dotfiles/blob/main/README.md#hintsheet">Hintsheet</a>
+</p>
+
+
+
+
+
+
+
+
+<a href="https://github.com/Jona1302/My-Dotfiles/blob/main/README.md#hintsheet">Hintsheet</a>
   
   <a href="https://github.com/Jona1302/My-Dotfiles#setup">Bugs</a>
-</p>
 
 ## Installation ##
 
