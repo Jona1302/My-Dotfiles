@@ -40,27 +40,27 @@
         sudo rm -rf ~/.config/waybar
 
 <br>
+<br>
 
+**4. Now we can move the new files to the .Config directory**
 
-**4. Now we can move the new files to the .Config directory
+!!!MAKE SHURE THAT YOU ARE IN THE (MY-DOTFILES) DIRECTORY!!!
 
-!!!MAKE SHURE THAT YOU ARE IN THE MY-DOTFILES DIRECTORY!!!
-
-Hypr:
+- Hypr:
  
-    cp -r hypr/ ~/.config/
-
-Kitty(if installed):
+      cp -r hypr/ ~/.config/
+  
+- Kitty(if installed):
  
-    cp -r kitty/ ~/.config/
+      cp -r kitty/ ~/.config/
 
-Rofi:
+- Rofi:
  
-    cp -r rofi/ ~/.config/
+      cp -r rofi/ ~/.config/
 
-Waybar:
+- Waybar:
 
-    cp -r waybar/ ~/.config/
+      cp -r waybar/ ~/.config/
 
 ## 5. At the last step we have to modify the waybar scripts by typing this:
 
