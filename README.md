@@ -1,4 +1,6 @@
- ## First we have to install some dependencys:
+## Setup ##
+
+ ** First we have to install some dependencys:
 
  Pacman:
  <pre> sudo pacman -S kitty swww waybar git python3 bluez-utils brightnessctl pipewire pipewire-pulse ttf-jetbrains-mono-nerd wireplumber </pre>
@@ -11,7 +13,7 @@
 **Now clone the repo:**
  <pre>git clone https://github.com/Jona1302/My-Dotfiles.git </pre><br>
 
-## Now we have to remove the existing files:
+**Now we have to remove the existing files:
 
  Hypr:
  <pre> sudo rm -rf ~/.config/hypr </pre>
