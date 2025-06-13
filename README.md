@@ -1,9 +1,5 @@
 
-<p align="center">
-  
-  ## ⬇️Sections⬇️ ##
-</p>
-
+<h2 align="center">⬇️ Sections ⬇️</h2>
 
 <p align="center">
   <a href="https://github.com/Jona1302/My-Dotfiles?tab=readme-ov-file#Installation">Installation</a>
