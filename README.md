@@ -18,6 +18,7 @@ If you dont have yay installed, [Klick me](https://github.com/Jguer/yay) after y
     
        git clone https://github.com/Jona1302/My-Dotfiles.git
 
+<br>
 **Now we have to remove the existing files:**
 
  Hypr:
