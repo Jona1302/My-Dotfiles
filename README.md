@@ -1,5 +1,5 @@
 <p align="center">
- [Install](https://github.com/Jona1302/My-Dotfiles#setup)
+  <a href="https://github.com/Jona1302/My-Dotfiles#setup">Install</a>
 </p>
 
 ## Setup ##
