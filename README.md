@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a https://github.com/Jona1302/My-Dotfiles/blob/main/README.md#bugs-i-try-to-fix">Bugs</a>
+  <a href="https://github.com/Jona1302/My-Dotfiles/blob/main/README.md#bugs-i-try-to-fix">Bugs</a>
 </p>
 
 ## Installation ##
