@@ -13,7 +13,7 @@
 
  - yay:
 
-       yay -S waypaper-git rofi-lbonn-wayland-git bluetui
+       yay -S waypaper-git pfetch rofi-lbonn-wayland-git bluetui
 * If you dont have yay installed, [Klick me](https://github.com/Jguer/yay) after you followed this guide you can delete the yay folder
 
 <br/>
