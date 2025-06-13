@@ -1,13 +1,13 @@
 ## Setup ##
 
- ** First we have to install some dependencys:
+**1.First we have to install some dependencys:**
 
- Pacman:
- <pre> sudo pacman -S kitty swww waybar git python3 bluez-utils brightnessctl pipewire pipewire-pulse ttf-jetbrains-mono-nerd wireplumber </pre>
+Pacman:
+<pre> sudo pacman -S kitty swww waybar git python3 bluez-utils brightnessctl pipewire pipewire-pulse ttf-jetbrains-mono-nerd wireplumber </pre>
 
- yay:
- <pre>yay -S waypaper-git rofi-lbonn-wayland-git bluetui </pre>
- if you dont have yay installed, [Klick me](https://github.com/Jguer/yay) after you followed this guide you can delete the yay folder.<br />
+yay:
+<pre>yay -S waypaper-git rofi-lbonn-wayland-git bluetui </pre>
+if you dont have yay installed, [Klick me](https://github.com/Jguer/yay) after you followed this guide you can delete the yay folder.<br />
  
 
 **Now clone the repo:**
