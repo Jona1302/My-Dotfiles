@@ -1,3 +1,7 @@
+<p align="center">
+// Your content
+</p>
+
 ## Setup ##
 
 **1.First we have to install some dependencys:**
