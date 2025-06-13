@@ -83,6 +83,10 @@
 
 - change shell
 
+      chsh -s $(which zsh)
+
+- change shell(for root)
+
       sudo chsh -s $(which zsh)
 
 
