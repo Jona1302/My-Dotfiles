@@ -1,6 +1,6 @@
 <p align="center">
- [Install](https://github.com/Jona1302/My-Dotfiles#setup)
  
+ [Install](https://github.com/Jona1302/My-Dotfiles#setup)
 </p>
 
 ## Setup ##
