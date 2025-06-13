@@ -23,9 +23,9 @@
     
        git clone https://github.com/Jona1302/My-Dotfiles.git
 
-   - oh-my-zsh
+- oh-my-zsh
      
-         sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+      sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
        
 
 <br>
