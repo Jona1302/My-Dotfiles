@@ -25,16 +25,22 @@
 **2. Now we have to remove the existing files:**
 
  Hypr:
- <pre> sudo rm -rf ~/.config/hypr </pre>
+ 
+    sudo rm -rf ~/.config/hypr 
 
  Kitty(if installed):
- <pre> sudo rm -rf ~/.config/kitty </pre>
+ 
+    sudo rm -rf ~/.config/kitty
 
  Rofi:
- <pre> sudo rm -rf ~/.config/rofi </pre>
+ 
+    sudo rm -rf ~/.config/rofi
 
  Waybar:
- <pre> sudo rm -rf ~/.config/waybar </pre><br>
+
+    sudo rm -rf ~/.config/waybar
+
+<br>
 
 
 **Now we can move the new files to the .Config directory
