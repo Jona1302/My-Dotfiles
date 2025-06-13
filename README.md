@@ -16,7 +16,7 @@
        yay -S waypaper-git pfetch rofi-lbonn-wayland-git bluetui
 * If you dont have yay installed, [Click me](https://github.com/Jguer/yay) after you followed this guide you can delete the yay folder
   
-  - or just run this(thats from the website)
+  - Or just run this(thats from the website)
     
              sudo pacman -S --needed git base-devel && git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
 
