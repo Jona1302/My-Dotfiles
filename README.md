@@ -5,7 +5,7 @@
 
 ## Setup ##
 
-**1.First we have to install some dependencys:**
+**1.First we have to install some dependencies:**
 
 - Pacman:
   
@@ -14,7 +14,7 @@
  - yay:
 
        yay -S waypaper-git pfetch rofi-lbonn-wayland-git bluetui
-* If you dont have yay installed, [Klick me](https://github.com/Jguer/yay) after you followed this guide you can delete the yay folder
+* If you dont have yay installed, [Click me](https://github.com/Jguer/yay) after you followed this guide you can delete the yay folder
 
 <br/>
 
@@ -36,33 +36,13 @@
 
 **3. Now we have to remove the existing files:**
 
- - Hypr:
+       rm -rf ~/.config/hypr \
+              ~/.config/kitty \
+              ~/.config/rofi \
+              ~/.config/waybar \
+              ~/.zshrc \
+              ~/.p10k.zsh    
  
-        sudo rm -rf ~/.config/hypr 
-
- - Kitty(if installed):
- 
-        sudo rm -rf ~/.config/kitty
-
-  - Rofi:
- 
-        sudo rm -rf ~/.config/rofi
-
-  - Waybar:
-
-        sudo rm -rf ~/.config/waybar
-
-  - pw10k:
-
-        sudo rm ~/.zshrc
-
-    
-  - zshrc:
-
-        sudo rm ~/.p10k.zsh
-
-    
-
 <br>
 <br>
 
@@ -70,29 +50,9 @@
 
 !!!MAKE SURE THAT YOU ARE IN THE (MY-DOTFILES) DIRECTORY!!!
 
-- Hypr:
- 
-      cp -r hypr/ ~/.config/
-  
-- Kitty(if installed):
- 
-      cp -r kitty/ ~/.config/
+         cp -r hypr/ kitty/ rofi/ waybar/ ~/.config/ && \
+          cp .p10k.zsh .zshrc ~/
 
-- Rofi:
- 
-      cp -r rofi/ ~/.config/
-
-- Waybar:
-
-      cp -r waybar/ ~/.config/
-
-- pw10k:
-
-      cp .p10k.zsh ~/
-
-- zshrc:
-
-      cp .zshrc ~/
 
 **5. At the next step we have to modify the waybar scripts by running this:**
 
@@ -100,8 +60,8 @@
 
       chmod +x ~/.config/waybar/scripts/*
 
-**6. Last but no least we have to chainge the shell from bash to zsh by runnig:**
+**6. Last but no least we have to chainge the shell from bash to zsh by running:**
 
-- chainge shell
+- change shell
 
       sudo chsh -s $(which zsh)
