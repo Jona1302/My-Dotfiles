@@ -22,7 +22,7 @@
 <br>
 <br>
 
-**Now we have to remove the existing files:**
+**2. Now we have to remove the existing files:**
 
  Hypr:
  <pre> sudo rm -rf ~/.config/hypr </pre>
