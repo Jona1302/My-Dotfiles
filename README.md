@@ -1,3 +1,6 @@
+## Sections ##
+
+
 <p align="center">
   <a href="https://github.com/Jona1302/My-Dotfiles?tab=readme-ov-file#Installation">Installation</a>
 </p>
