@@ -14,7 +14,8 @@ If you dont have yay installed, [Klick me](https://github.com/Jguer/yay) after y
 
 **2.Now clone the repo:**
 
-    <pre>git clone https://github.com/Jona1302/My-Dotfiles.git </pre><br>
+    - git
+    git clone https://github.com/Jona1302/My-Dotfiles.git
 
 **Now we have to remove the existing files:**
 
