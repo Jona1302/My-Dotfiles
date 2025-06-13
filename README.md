@@ -2,7 +2,7 @@
 
 **1.First we have to install some dependencys:**
 
-Pacman:
+_Pacman:
 <pre> sudo pacman -S kitty swww waybar git python3 bluez-utils brightnessctl pipewire pipewire-pulse ttf-jetbrains-mono-nerd wireplumber </pre>
 
 yay:
