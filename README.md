@@ -9,7 +9,7 @@
 
 - Pacman:
   
-      sudo pacman -S kitty firefox ttf-meslo-nerd curl wget zsh pfetch swww waybar git python3 bluez-utils brightnessctl pipewire pipewire-pulse ttf-jetbrains-mono-nerd wireplumber
+      sudo pacman -S kitty firefox thunar ttf-meslo-nerd curl wget zsh pfetch swww waybar git python3 bluez-utils brightnessctl pipewire pipewire-pulse ttf-jetbrains-mono-nerd wireplumber
 
  - yay:
 
@@ -72,12 +72,14 @@
 
       cp -r waybar/ ~/.config/
 
-**5. At the last step we have to modify the waybar scripts by running this:**
+**5. At the next step we have to modify the waybar scripts by running this:**
 
 - modifiy
 
       chmod +x ~/.config/waybar/scripts/*
 
+**6. Last but no least we have to chainge the shell from bash to zsh by runnig:**
 
+- chaine shell
 
-  ## terminal + zsh ##
+      sudo chsh -s $(which zsh)
