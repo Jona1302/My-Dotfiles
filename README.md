@@ -89,11 +89,11 @@
 | WIN + W        | ChaingeWallpaper            
 | WIN + V        | fullscreen a window       
 | WIN + R        | reload swww (wallpaper)       
-| Esc            | cloes mini windows like rofi
+| Esc            | closes mini windows like rofi
 
 
 
 ## Bugs ##
 
 - wallpaper
-   - if the wallpaper is to small some times press `Win + R`
+   - If the wallpaper is to small some times press `Win + R`
