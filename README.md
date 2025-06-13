@@ -9,6 +9,11 @@
   <a href="https://github.com/Jona1302/My-Dotfiles/blob/main/README.md#Hintsheet">Hintsheet</a>
 </p>
 
+
+<p align="center">
+  <a href="https://github.com/Jona1302/My-Dotfiles/blob/main/README.md#Hintsheet">additionally packages</a>
+</p>
+
 <p align="center">
   <a href="https://github.com/Jona1302/My-Dotfiles/blob/main/README.md#bugs-i-try-to-fix">Bugs</a>
 </p>
@@ -93,6 +98,11 @@
 | WIN + V        | fullscreen a window       
 | WIN + R        | reload swww (wallpaper)       
 | Esc            | closes mini windows like rofi
+
+
+
+## additionally Packages ##
+
 
 
 
