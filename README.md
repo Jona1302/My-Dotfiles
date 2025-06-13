@@ -12,6 +12,7 @@
 If you dont have yay installed, [Klick me](https://github.com/Jguer/yay) after you followed this guide you can delete the yay folder
 
 <br/>
+
 **2.Now clone the repo:**
 
  - git
