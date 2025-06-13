@@ -1,5 +1,5 @@
 <p align="center">
-// Your content
+ [Install](https://github.com/Jona1302/My-Dotfiles#setup)
 </p>
 
 ## Setup ##
