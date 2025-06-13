@@ -27,9 +27,9 @@
  
     sudo rm -rf ~/.config/hypr 
 
- Kitty(if installed):
+ - Kitty(if installed):
  
-    sudo rm -rf ~/.config/kitty
+       sudo rm -rf ~/.config/kitty
 
  Rofi:
  
