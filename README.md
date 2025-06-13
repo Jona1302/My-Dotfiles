@@ -87,7 +87,13 @@
 | WIN + F        | FileManager(thunar)        
 | WIN + C        | Close Acitive Window      
 | WIN + W        | ChaingeWallpaper            
-| WIN + V        | fullscreen a window         
-| Win + leftklick| Drag a window               
+| WIN + V        | fullscreen a window       
+| WIN + R        | reload swww (wallpaper)       
 | Esc            | cloes mini windows like rofi
 
+
+
+## Bugs ##
+
+- wallpaper
+   - if the wallpaper is to small some times press `Win + R`
