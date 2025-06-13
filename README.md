@@ -24,7 +24,7 @@
 
 - Pacman:
   
-      sudo pacman -S kitty firefox thunar ttf-meslo-nerd curl wget zsh swww waybar git python3 bluez-utils brightnessctl pipewire pipewire-pulse ttf-jetbrains-mono-nerd wireplumber
+      sudo pacman -S kitty xdg-desktop-portal-wlr pacman-contrib firefox thunar ttf-meslo-nerd curl wget zsh swww waybar git python3 bluez bluez-utils brightnessctl pipewire pipewire-pulse ttf-jetbrains-mono-nerd wireplumber
 
  - yay:
 
@@ -107,7 +107,31 @@
 
 ## additionally Packages ##
 
+ - SSH
 
+       sudo pacman -S openssh
+       sudo systemctl enable sshd
+       sudo systemctl start sshd
+
+  - Bluetooth
+    ### Additionally installed packages for Bluetooth audio
+
+- `bluez`, `bluez-utils`: Bluetooth stack and utilities  
+- `pipewire`, `pipewire-pulse`, `pipewire-alsa`, `wireplumber`: PipeWire and PulseAudio compatibility layer  
+- `pulseaudio-bluetooth` (optional if using PulseAudio instead of PipeWire)  
+
+### How to enable PipeWire for Bluetooth audio
+
+```bash
+# Enable and start Bluetooth service
+sudo systemctl enable --now bluetooth.service
+
+# Disable PulseAudio services if running
+systemctl --user --now disable pulseaudio.service pulseaudio.socket
+
+# Enable PipeWire and related services
+systemctl --user --now enable pipewire pipewire-pulse wireplumber
+systemctl --user start pipewire pipewire-pulse wireplumber
 
 
 ## Bugs (I try to fix)##
