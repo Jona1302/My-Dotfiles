@@ -79,12 +79,12 @@
 
       chmod +x ~/.config/waybar/scripts/*
 
-**Dont forget to enable teh installed packages**
+**7. Dont forget to enable teh installed packages**
 
-sudo systemctl enable --now bluetooth.service && \
-systemctl --user enable --now pipewire pipewire-pulse wireplumber
+    sudo systemctl enable --now bluetooth.service && \
+    systemctl --user enable --now pipewire pipewire-pulse wireplumber
 
-**6. Last but no least we have to chainge the shell from bash to zsh by running:**
+**7. Last but no least we have to chainge the shell from bash to zsh by running:**
 
 - change shell
 
