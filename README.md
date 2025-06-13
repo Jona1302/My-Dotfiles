@@ -23,21 +23,21 @@
 
 **3. Now we have to remove the existing files:**
 
- Hypr:
+ - Hypr:
  
-    sudo rm -rf ~/.config/hypr 
+        sudo rm -rf ~/.config/hypr 
 
  - Kitty(if installed):
  
-       sudo rm -rf ~/.config/kitty
+        sudo rm -rf ~/.config/kitty
 
- Rofi:
+  - Rofi:
  
-    sudo rm -rf ~/.config/rofi
+        sudo rm -rf ~/.config/rofi
 
- Waybar:
+  - Waybar:
 
-    sudo rm -rf ~/.config/waybar
+        sudo rm -rf ~/.config/waybar
 
 <br>
 
