@@ -4,10 +4,11 @@
 
 - Pacman:
 
-      sudo pacman -S kitty swww waybar git python3 bluez-utils brightnessctl pipewire pipewire-pulse ttf-jetbrains-mono-nerd wireplumber
+      sudo pacman -S kitty firefox fastfetch swww waybar git python3 bluez-utils brightnessctl pipewire pipewire-pulse ttf-jetbrains-mono-nerd wireplumber
 
-yay:
-<pre>yay -S waypaper-git rofi-lbonn-wayland-git bluetui </pre>
+ - yay:
+
+       yay -S waypaper-git rofi-lbonn-wayland-git bluetui
 if you dont have yay installed, [Klick me](https://github.com/Jguer/yay) after you followed this guide you can delete the yay folder.<br />
  
 
