@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Jona1302/My-Dotfiles#setup">Installation</a>
-  <a href="https://github.com/Jona1302/My-Dotfiles#setup">Hintsheet</a>
+  <a href="https://github.com/Jona1302/My-Dotfiles/blob/main/README.md#hintsheet">Hintsheet</a>
   <a href="https://github.com/Jona1302/My-Dotfiles#setup">Bugs</a>
 </p>
 
