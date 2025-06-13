@@ -20,6 +20,7 @@
        git clone https://github.com/Jona1302/My-Dotfiles.git
 
 <br>
+
 **Now we have to remove the existing files:**
 
  Hypr:
