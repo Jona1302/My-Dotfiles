@@ -64,6 +64,6 @@
 
 **5. At the last step we have to modify the waybar scripts by typing this:**
 
--mod
+- mod
 
-     chmod +x ~/.config/waybar/scripts/*
+      chmod +x ~/.config/waybar/scripts/*
