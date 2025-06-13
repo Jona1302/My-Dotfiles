@@ -96,7 +96,10 @@
 
 
 
-## Bugs ##
+## Bugs (I try to fix)##
 
 - wallpaper
    - If the wallpaper is to small some times press `Win + R`
+
+- hyprland
+   - If Hyprland hangs up, you can try to reboot. If this also doesn't work, you have to go into your login manager and press Ctrl + Alt + F2/F3 or F4 to get into the console. Then type ´Hyprland´ to start Hyprland manually.
