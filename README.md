@@ -1,8 +1,10 @@
 <p align="center">
-  <a href="https://github.com/Jona1302/My-Dotfiles#setup">Install</a>
+  <a href="https://github.com/Jona1302/My-Dotfiles#setup">Installation</a>
+  <a href="https://github.com/Jona1302/My-Dotfiles#setup">Hintsheet</a>
+  <a href="https://github.com/Jona1302/My-Dotfiles#setup">Bugs</a>
 </p>
 
-## Setup ##
+## Installation ##
 
 **1.First we have to install some dependencies:**
 
@@ -68,3 +70,18 @@
 - change shell
 
       sudo chsh -s $(which zsh)
+
+
+## Hintsheet ##
+
+ | keybind       | Description              
+|----------------|-----------------------------
+| WIN + A        | Rofi Launcher              
+| WIN + Q        | Terminal(Kitty)           
+| WIN + F        | FileManager(thunar)        
+| WIN + C        | Close Acitive Window      
+| WIN + W        | ChaingeWallpaper            
+| WIN + V        | fullscreen a window         
+| Win + leftklick| Drag a window               
+| Esc            | cloes mini windows like rofi
+
