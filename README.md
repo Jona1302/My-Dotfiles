@@ -52,12 +52,23 @@
 
         sudo rm -rf ~/.config/waybar
 
+  - pw10k:
+
+        sudo rm ~/.zshrc
+
+    
+  - zshrc:
+
+        sudo rm ~/.p10k.zsh
+
+    
+
 <br>
 <br>
 
 **4. Now we can move the new files to the .Config directory**
 
-!!!MAKE SHURE THAT YOU ARE IN THE (MY-DOTFILES) DIRECTORY!!!
+!!!MAKE SURE THAT YOU ARE IN THE (MY-DOTFILES) DIRECTORY!!!
 
 - Hypr:
  
@@ -74,6 +85,14 @@
 - Waybar:
 
       cp -r waybar/ ~/.config/
+
+- pw10k:
+
+      cp .p10k.zsh ~/
+
+- zshrc:
+
+      cp .zshrc ~/
 
 **5. At the next step we have to modify the waybar scripts by running this:**
 
