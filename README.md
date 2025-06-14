@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/Jona1302/My-Dotfiles/blob/main/README.md#additionally-packages">Addons</a>
+  <a href="https://github.com/Jona1302/My-Dotfiles/blob/main/README.md#addons">Addons</a>
 </p>
 
 <p align="center">
