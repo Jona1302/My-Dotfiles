@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/Jona1302/My-Dotfiles/blob/main/README.md#additionally-packages">additionally packages</a>
+  <a href="https://github.com/Jona1302/My-Dotfiles/blob/main/README.md#additionally-packages">Addons</a>
 </p>
 
 <p align="center">
@@ -110,7 +110,7 @@
 
 
 
-## additionally Packages ##
+## Addons ##
 
  - SSH
 
