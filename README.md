@@ -24,7 +24,7 @@
 
 - Pacman:
   
-      sudo pacman -S kitty xdg-desktop-portal-wlr pacman-contrib blueman pipewire-alsa firefox thunar ttf-meslo-nerd curl wget zsh swww waybar git python3 bluez bluez-utils brightnessctl pipewire pipewire-pulse ttf-jetbrains-mono-nerd wireplumber
+      sudo pacman -S kitty xdg-desktop-portal-wlr swaylock pacman-contrib blueman pipewire-alsa firefox thunar ttf-meslo-nerd curl wget zsh swww waybar git python3 bluez bluez-utils brightnessctl pipewire pipewire-pulse ttf-jetbrains-mono-nerd wireplumber
 
  - yay:
 
