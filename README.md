@@ -59,6 +59,7 @@
               ~/.config/kitty \
               ~/.config/rofi \
               ~/.config/waybar \
+              ~/.config/swaylock \
               ~/.zshrc \
               ~/.p10k.zsh    
  
@@ -69,7 +70,7 @@
 
 !!!MAKE SURE THAT YOU ARE IN THE (MY-DOTFILES) DIRECTORY!!!
 
-         cp -r hypr/ kitty/ rofi/ waybar/ ~/.config
+         cp -r hypr/ kitty/ rofi/ waybar/ swaylock/  ~/.config
          cp .p10k.zsh .zshrc ~/
 
 
